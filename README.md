@@ -1,1 +1,3 @@
-# credit-card-fraud-detection
+Fraudulent activities have increased severalfold, with around 52,304 cases of credit/debit card fraud reported in FY'23 alone. Due to this steep increase in banking frauds, it is the need of the hour to detect these fraudulent transactions in time in order to help consumers as well as banks, who are losing their credit worth each day.
+Every fraudulent credit card transaction that occur is a direct financial loss to the bank as the bank is responsible for the fraud transactions as well it also affects the overall customer satisfaction adversely.
+The aim of this project is to identify and predict fraudulent credit card transactions using machine learning models.# credit-card-fraud-detection
